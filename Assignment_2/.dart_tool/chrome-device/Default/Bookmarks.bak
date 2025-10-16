@@ -1,0 +1,68 @@
+{
+   "checksum": "8203e98dd9655500ae111dcdf8d4b2ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13358910943961470",
+            "date_last_used": "0",
+            "guid": "3f987c39-e49f-431b-92c6-c48441ae6fd4",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "d2220170a08346acbdb4c7bfc715be1e.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/PC/OneDrive/Desktop/d2220170a08346acbdb4c7bfc715be1e.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13387305628565645",
+            "date_last_used": "0",
+            "guid": "ccf6d6b0-283b-45aa-8c35-0b94b51953f9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ERD_CaseStudies.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/PC/Downloads/ERD_CaseStudies.pdf",
+            "visit_count": 1
+         } ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "13387305628565645",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOKYoOiZAQAAEgAqGFZuMHo4V3F6VmNjQnNTRndJakVRcWc9PUgDoAYHEq0BCAcSqAEKHDNCUjJ0VjUwYzBFR1FIR1pGU2JZNG1Ob2NNVT0SJGNjZjZkNmIwLTI4M2ItNDVhYS04YzM1LTBiOTRiNTE5NTNmORgAIAAoADCm95ic3DI4iPqYnNwyQIj6mJzcMkocYUlBRUNOVzFaY21nY2ZIQzBmSWNjaFQ1bUQ0PVofIh26TGRrbmYzK1FWVDJuZllvWlFPK09IZHF1TXBZPWV3cGyjwj4CYAUSrAEIBhKnAQocNjF3RXo4UFVjc3NUME5lL0l4RTl0ZFROVWdvPRIkM2Y5ODdjMzktZTQ5Zi00MzFiLTkyYzYtYzQ4NDQxYWU2ZmQ0GAAgACgAML6vt+PyMTjCsrfj8jFAwrK34/IxShx3MSs0V1k0TmVSZTkyNEJHNzREWlZ1L0JudlE9Wh4iHHVVUGF0bDlxRy9ER2tRWGVpNjdVZ0RQblVwRT1ld3Bso8I+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGI2YjhmNjhmLWIwNTMtNTk5OC1iMTliLTBkMmU4NWNjMTNiNRgAIAAoADCoy/jl4jE4r9j45eIxQK/Y+OXiMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ5ZDZlMTk5Yy1lOTZiLTViYjItYmY0Ny0wNTgwN2YxYTVjOWIYACAAKAAwp8v45eIxOJDY+OXiMUCQ2Pjl4jFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDdkZWJhNDgtZWZjYy01YmFiLWJmYWQtMTg5ZjNlM2U3YWViGAAgACgAMK3L+OXiMTj12Pjl4jFA9dj45eIxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

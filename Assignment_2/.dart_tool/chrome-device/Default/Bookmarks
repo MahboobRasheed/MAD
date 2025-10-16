@@ -1,0 +1,58 @@
+{
+   "checksum": "e94daf555e31b74093067c642f0bd239",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13358910943961470",
+            "date_last_used": "0",
+            "guid": "3f987c39-e49f-431b-92c6-c48441ae6fd4",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "d2220170a08346acbdb4c7bfc715be1e.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/PC/OneDrive/Desktop/d2220170a08346acbdb4c7bfc715be1e.pdf"
+         }, {
+            "date_added": "13387305628565645",
+            "date_last_used": "0",
+            "guid": "ccf6d6b0-283b-45aa-8c35-0b94b51953f9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ERD_CaseStudies.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/PC/Downloads/ERD_CaseStudies.pdf"
+         } ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "13387305628565645",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405059407454128",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
